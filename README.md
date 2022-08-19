@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruqaiyasattar
-- 👀 I’m interested in Flutter jobs in Europe and want to relocate there.
+- 👀 I’m interested in Flutter jobs.
 - 🌱 I’m currently practicing Flutter Development and making sample apps
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ..https://www.linkedin.com/in/ruqaiya-sattar-06b720a9/
