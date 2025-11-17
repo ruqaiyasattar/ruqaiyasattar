@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruqaiyasattar
-- 👀 I’m interested in Flutter | Open Source | ML.
-- 🌱 I’m currently working as Applications Engineer | Flutter Developer
+- 👀 I’m interested in Open Source | AI/ML.
+- 🌱 I’m currently working as Applications Engineer | Exective Assistant 
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me .. https://www.linkedin.com/in/i-am-ruqaiya-sattar/
 
